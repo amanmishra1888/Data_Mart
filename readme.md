@@ -73,10 +73,14 @@ plotly.express
 
 ```
 📦 business-data-mart/
-├── app.py
+├── Buisness_DataMart.py
 ├── requirements.txt
 ├── README.md
-└── database_schema.sql
+└──SQL QUERIES
+      SQL_CRUD.sql
+      SQL_adv.sql
+      SQL_Tables.sql
+
 
 
 ```
@@ -305,6 +309,7 @@ For questions or improvements, feel free to open an issue or contact the maintai
 
 
 ---
+
 
 
 
